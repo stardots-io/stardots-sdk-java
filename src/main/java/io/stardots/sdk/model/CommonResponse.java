@@ -29,7 +29,7 @@ public class CommonResponse {
     /**
      * Indicates whether the business operation is successful.
      */
-    @JsonProperty("bool")
+    @JsonProperty("success")
     private boolean success;
     
     /**
